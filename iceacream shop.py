@@ -1,0 +1,21 @@
+##a=input("Enter your name: ")
+##b=int(input("Enter your phone number : "))
+##c=input("Enter your pickup point: ")
+##d=input("Enter your drop point: ")
+##print("Your name is " , a)
+##print("Your phone number is : ",  b )
+##print("Your pickup point is " , c)
+##print("your drop point is " , d )
+
+##hobbies interested activities time to play  favourate foo s
+
+a=input("Enter your name : ")
+b=input("Enter your hobbies : ")
+c=input("Enter the activities you are interested in : ")
+d=input("Enter the time you play  daily : ")
+e=input("Enter your favourite food : ")
+print("Your name is : " , a)
+print("Your hobbies is : ", b)
+print("The activities you are interested in : " ,c)
+print("The time you play  daily : " ,d)
+print("Your favourite food : ",e)
